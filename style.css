@@ -11,6 +11,8 @@ p{
     font-size: 20px;
 }
 header{
-    border: mixed 2px rgb(241, 79, 4);
-    font-size: 30px;
+    border-bottom: solid 2px rgb(241, 79, 4);
+    padding: 20px;
+    font-size: 32px;
+    color: brown;
 }
