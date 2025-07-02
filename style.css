@@ -17,7 +17,12 @@ header{
     color: brown;
 }
 section{
-    background: yellow;
+    background: rgb(6, 2, 230);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+   margin-right: 5%; 
 }
